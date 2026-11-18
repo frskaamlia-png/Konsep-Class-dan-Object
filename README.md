@@ -1,1 +1,2 @@
-# Konsep-Class-dan-Object
+# Nama : Friska Amelia Putri
+Nim : 202512002
